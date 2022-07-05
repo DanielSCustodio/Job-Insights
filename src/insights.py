@@ -12,21 +12,8 @@ def get_unique_job_types(path):
 
 
 def filter_by_job_type(jobs, job_type):
-    """Filters a list of jobs by job_type
-
-    Parameters
-    ----------
-    jobs : list
-        List of jobs to be filtered
-    job_type : str
-        Job type for the list filter
-
-    Returns
-    -------
-    list
-        List of jobs with provided job_type
-    """
-    return []
+    return[item for item in jobs if item["job_type"] == job_type]
+    # Que linha de código horrorosa, pelo amor!
 
 
 def get_unique_industries(path):
@@ -119,5 +106,3 @@ def filter_by_salary_range(jobs, salary):
         Jobs whose salary range contains `salary`
     """
     return []
-
-
