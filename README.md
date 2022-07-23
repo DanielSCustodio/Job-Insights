@@ -11,7 +11,7 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
     <li>Realizar a manipulação de arquivos.</li>
     <li>Escrever funções.</li>
     <li>Escrever testes com Pytest.</li>
-    <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
+    <li>Escrever módulos e importá-los em outros códigos.</li>
   </ul>
 </details>
 
@@ -26,8 +26,6 @@ Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e o
   python3 -m flake8
   ```
 
-  ⚠️ **PULL REQUESTS COM ISSUES DE LINTER NÃO SERÃO AVALIADAS.
-  ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
 </details>
 
 <details>
