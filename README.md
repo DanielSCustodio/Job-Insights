@@ -1,5 +1,5 @@
 # Job Insights
-Neste projeto é  implementada análises a partir de um conjunto de dados sobre empregos. As implementações serão incorporadas a um aplicativo Web desenvolvido com Flask. E são feitos testes para a implementação de uma análise de dados.
+Neste projeto é  implementada análises a partir de um conjunto de dados sobre empregos. <br>As implementações serão incorporadas a um aplicativo Web desenvolvido com Flask.<br> E são feitos testes para a implementação de uma análise de dados.<br>
 Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
 
   🚵 Habilidades trabalhadas:
